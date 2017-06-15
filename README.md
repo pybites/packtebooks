@@ -1,6 +1,4 @@
-## 072
-
-### Packt Ebook Download Manager
+## Packt Ebook Download Manager
 
 For the [Packt free learning challenge](https://pybit.es/codechallenge22.html) I'd like: 
 
